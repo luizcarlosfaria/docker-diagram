@@ -26,5 +26,5 @@ $ docker run -it -v $(pwd):/data diagram example2.py
 
 https://diagrams.mingrammer.com/
 
-Essa foi uma dica do Guilherme Caixeta lá no Cloud Native .NET
+Essa foi uma dica do [Guilherme Caixeta](https://github.com/guilhermecaixeta) lá no Cloud Native .NET
 
